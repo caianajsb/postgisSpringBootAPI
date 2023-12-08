@@ -8,7 +8,7 @@ package br.com.example.model;
 import java.io.Serializable;
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import com.vividsolutions.jts.geom.Geometry;
+import org.locationtech.jts.geom.Geometry;
 
 
 
